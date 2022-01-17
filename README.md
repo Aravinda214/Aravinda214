@@ -12,7 +12,7 @@
 <br/>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+  <img align="right" height="300" width="450" alt="GIF" src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/code.gif">
 </a>
 
 - 💼 I’m pursuing a **B Tech Computer Science and Engineering degree**
@@ -39,9 +39,9 @@
 
 <p align="center">
   <a>
-    <img height="125" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravinda214&theme=dark&hide_border=true"/>
-    <img height="125" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+    <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/right.png">
   </a>
 </p>
 <br/>
