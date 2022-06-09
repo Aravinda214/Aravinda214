@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
+<!--     <img src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/Earth.gif" width="0.5px" style="max-width:100%;"> -->
   </a>
   <b>Hey Guys! This is Aravinda </b>
   <a target="_blank">
-    <img src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/Hi.gif" width="40px" />
+<!--     <img src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/Hi.gif" width="0.5px" /> -->
   </a>
 </h1>
 
