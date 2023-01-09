@@ -39,20 +39,22 @@
 
 <p align="center">
   <a>
-    <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/left.png">
+   <!--  <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/left.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravinda214&theme=dark&hide_border=true"/>
-    <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/right.png">
+    <!-- <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/right.png"> -->
   </a>
 </p>
 <br/>
 
 #
 
+<!--
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
+
 <br>
 
 <p align="center">
@@ -62,7 +64,7 @@
 </p>
 </details>
 <br>
-
+-->
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
@@ -75,7 +77,7 @@
 
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aravinda214&theme=react-dark&hide_border=true&area=true)
+<!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aravinda214&theme=react-dark&hide_border=true&area=true)-->
 <br/>
 
 **Some of the Languages and Technologies that I have worked with**
