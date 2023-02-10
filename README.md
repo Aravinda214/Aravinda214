@@ -27,8 +27,9 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aravinda214?label=Followers&style=social"> •   
+  <img src="https://gpvc.arturio.dev/Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> 
+<!--    <img src="https://komarev.com/ghpvc/?username=Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aravinda214?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/Aravinda214?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
@@ -39,16 +40,16 @@
 
 <p align="center">
   <a>
-   <!--  <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/left.png"> -->
+   <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/left.png"> 
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravinda214&theme=dark&hide_border=true"/>
-    <!-- <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/right.png"> -->
+    <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/right.png"> 
   </a>
 </p>
 <br/>
 
 #
 
-<!--
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -64,7 +65,7 @@
 </p>
 </details>
 <br>
--->
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
@@ -78,6 +79,7 @@
 </p>
 
 <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aravinda214&theme=react-dark&hide_border=true&area=true)-->
+[![Aravinda's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinda&theme=react-dark)](https://github.com/Aravinda214/github-readme-activity-graph)
 <br/>
 
 **Some of the Languages and Technologies that I have worked with**
