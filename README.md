@@ -79,7 +79,7 @@
 </p>
 
 <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aravinda214&theme=react-dark&hide_border=true&area=true)-->
-[![Aravinda's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinda&theme=react-dark)](https://github.com/Aravinda214/github-readme-activity-graph)
+<!--[![Aravinda's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinda&theme=react-dark)](https://github.com/Aravinda214/github-readme-activity-graph)-->
 <br/>
 
 **Some of the Languages and Technologies that I have worked with**
