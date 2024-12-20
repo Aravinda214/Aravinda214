@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> 
+<!--   <img src="https://gpvc.arturio.dev/Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  -->
 <!--    <img src="https://komarev.com/ghpvc/?username=Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  -->
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aravinda214?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/Aravinda214?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
@@ -41,7 +41,7 @@
 <p align="center">
   <a>
    <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/left.png"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravinda214&theme=dark&hide_border=true"/>
+<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravinda214&theme=dark&hide_border=true"/> -->
     <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/right.png"> 
   </a>
 </p>
