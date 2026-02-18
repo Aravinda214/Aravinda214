@@ -36,7 +36,7 @@
 
 #
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Aravinda214&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Aravinda214)
+<!--  [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Aravinda214&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Aravinda214)  -->
 
 <p align="center">
   <a>
@@ -47,9 +47,9 @@
 </p>
 <br/>
 
-#
 
 
+<!--
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -64,6 +64,7 @@
   </a>
 </p>
 </details>
+-->
 <br>
 
 
