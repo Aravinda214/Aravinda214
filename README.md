@@ -1,114 +1,112 @@
-<h1 align="center">
-  <a target="_blank">
-<!--     <img src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/Earth.gif" width="0.5px" style="max-width:100%;"> -->
-  </a>
-  <b>Hey Guys! This is Aravinda </b>
-  <a target="_blank">
-<!--     <img src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/Hi.gif" width="0.5px" /> -->
-  </a>
-</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=header" alt="header" />
+</div>
 
-<br/>
-<br/>
-
-<a target="blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Aravinda214/Aravinda214/blob/main/GIF/code.gif">
-</a>
-
-- 💼 I’m a **B Tech Computer Science and Engineering Graduate**
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Software Development Projects**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, React and Blockchain Technology**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 Projects**
-- 🤔 My research interests are with **Data Analytics, Machine Learning**
-
-
-<br/>
-<br/>
-
+<h1 align="center">Hi, I'm Aravinda Boovaraghavan 👋</h1>
 
 <p align="center">
-<!--   <img src="https://gpvc.arturio.dev/Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  -->
-<!--    <img src="https://komarev.com/ghpvc/?username=Aravinda214" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aravinda214?label=Followers&style=social"> 
-  <img src="https://img.shields.io/github/stars/Aravinda214?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
-
-#
-
-<!--  [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Aravinda214&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Aravinda214)  -->
-
-<p align="center">
-  <a>
-   <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/left.png"> 
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravinda214&theme=dark&hide_border=true"/> -->
-    <img height="125" width="150" src="https://github.com/Aravinda214/Aravinda214/blob/main/Image/right.png"> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%2F+ML+Engineer;Data+%26+Analytics+Builder;Carnegie+Mellon+MISM+Graduate" alt="Typing SVG" />
   </a>
 </p>
-<br/>
-
-
-
-<!--
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<br>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aravinda214&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Aravinda214?style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Aravinda214?style=for-the-badge&logo=github" alt="GitHub user stars" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a recent **Carnegie Mellon University** graduate with a Master's in **Information Systems Management**, focused on building software, AI/ML, and data-driven systems that solve real-world problems.
+
+- 🎓 MISM graduate from Carnegie Mellon University
+- 🔬 Previously worked as a **Research Assistant at CMU** on large-scale analytics projects, including U.S. copyright registrations and mobile safety behavior analysis
+- 💼 Experience across **software engineering, AI/ML, analytics, and consulting** through CMU research, PwC India, and capstone work with Kearney / Access Holdings
+- 🤖 Interested in **AI systems, machine learning, data-intensive applications, analytics, and product-minded engineering**
+- 📚 Published work in **IEEE** and **Springer** on applied AI projects
+- 📫 Reach me at **aboovara@andrew.cmu.edu**
+
+## 🚀 What I Work On
+
+- **AI / LLM Systems** — RAG-based assistants, document Q&A systems, prompt workflows, and multi-agent prototypes
+- **Machine Learning** — predictive modeling, computer vision, deep learning, and applied analytics
+- **Full-Stack Development** — React, Flask, Spring, dashboards, admin portals, and API integrations
+- **Data Products** — interactive analytics dashboards, large-scale data analysis, and decision-support tools
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql" alt="languages" />
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flask,spring,aws,azure,gcp,docker,git,github,linux,vscode" alt="frameworks and tools" />
+</p>
+
+### Also Worked With
+`R` `SQL` `Streamlit` `Shiny` `Pandas` `NumPy` `scikit-learn` `Plotly` `Power BI` `Tableau` `Spark` `Hadoop` `Azure OpenAI` `OpenAI API` `LangChain` `LangSmith`
+
+## 📌 Featured Work
+
+| Area | Highlights |
+| --- | --- |
+| **AI / LLM Applications** | Built document Q&A systems, RAG-based assistants, and multi-agent workflows for practical use cases |
+| **Applied ML & CV** | Developed building defect detection models and a fashion recommendation + virtual try-on system |
+| **Research & Analytics** | Worked on large-scale copyright analytics, user behavior analysis, and economic indicator dashboards |
+| **Software Engineering** | Built React dashboards, admin workflows, chat interfaces, and integrated backend APIs |
+| **Blockchain Projects** | Developed a peer-to-peer ride sharing system and a decentralized cloud storage system using Ethereum and IPFS |
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravinda214&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinda214&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aravinda214&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aravinda214&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravinda214&theme=react-dark" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aravinda214&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
+</p>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:aboovara@andrew.cmu.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/baravinda">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/Aravinda214">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aravinda214&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=fWW3EH8AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
 </p>
-</details>
--->
-<br>
 
+---
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
-<p align = "center">
-  
-<a href="mailto:aravinda992@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/baravinda/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Aravinda_214/)
-
+<p align="center">
+  Thanks for visiting — feel free to explore my repositories and connect with me.
 </p>
 
-<!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aravinda214&theme=react-dark&hide_border=true&area=true)-->
-<!--[![Aravinda's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinda&theme=react-dark)](https://github.com/Aravinda214/github-readme-activity-graph)-->
-<br/>
-
-**Some of the Languages and Technologies that I have worked with**
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-
-
-<!--
-**Aravinda214/Aravinda214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer" />
+</div>
